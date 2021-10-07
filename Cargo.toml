@@ -1,0 +1,12 @@
+[package]
+name = "magma"
+version = "0.1.0"
+edition = "2018"
+description = "Machine learning library for Rust."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tch = "0.5.0"
+cortex = "0.1.0"
+tulip = "0.1.0"
